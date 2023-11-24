@@ -1,14 +1,21 @@
-# Trustai
+# TrustAI
 
 ## Intro
 
-AI will create new value and through the integration of crypto, we aim to ensure equitable distribution of this value among all those who contribute to its creation.
 
-Artificial General Intelligence (AGI) is set to be a remarkably potent innovation. In our pursuit of responsible utilisation, we emphasise the importance of transparency in its deployment. Furthermore, by integrating crypto governance technology, we intend to place the power of decision-making in the hands of the people.
+Communities are important for the welfare of societies. Overall in the past wasn't that easy to form or be part of a community and certainly there wasn't enough incentive to do so. Now this is changing. With the technologies brought by Crypto and AI we may be able to do this. With AI will bring people closer and with Crypto we hold the trust in-between. 
 
-## How to Start
 
-Imagine the ChatGPT interface, but where every interaction in chat becomes a transaction in the blockchain. A message, whether it is a question to the AI model or a response, becomes a product backed by a smart contract, specifically an NFT. The conversations are safely stored in the blockchain.
+There may have been a moment in history we would have been surprised to know about the existence of marketplaces of intellectual values such as books, songs or photos, yet slowly over time this became possible. Now we want to expand the market of intellectual values to its limits. We think thoughts and conversations can be be part of it. Though ultimately there is market for everything if we put in touch the right people together, that's where AI will play a big role in our platform.    
+
+
+## The platform - How to Start
+
+Imagine a chatgpt-like interface displaying past conversations either with the AI or with another user. Users would connect to the platform through a crypto wallet. And every in-chat interaction at the click may be turned into a product backed by a smart contract, specifically an NFT. The conversations are securely stored in the blockchain.
+
+
+
+
 
 ### Next is tokenomics
 
