@@ -11,11 +11,10 @@ There may have been a moment in history we would have been surprised to know abo
 
 ## The platform - How to Start
 
-Imagine a chatgpt-like interface displaying past conversations either with the AI or with another user. Users would connect to the platform through a crypto wallet. And every in-chat interaction at the click may be turned into a product backed by a smart contract, specifically an NFT. The conversations are securely stored in the blockchain.
 
+The idea is a platform providing services for the metaverse. It offers authentic user identity and a comprehensive profile modeled by interacting with the AI and other entities of the metaverse. The AI itself is an offered service assisting the users in their own content creation, making customised NFTs and facilitating the right connections by bringing together individuals or groups that align well with each other's preferences and profiles. The platform uses Zero-Knowldge technology and smart contracts to secure privacy and ownership of the various entities. The platform will enable the creation of countless number of diverse apps, and at some point customised applications are created on the fly by the AI.    
 
-
-
+Initially a first app would have a chatgpt-like interface displaying past conversations either with the AI or with another user. Users would connect to the platform through a crypto wallet. And every in-chat interaction at the click may be turned into an NFT with possible royalities. The conversations are private and securely stored in the blockchain.
 
 ### Next is tokenomics
 
