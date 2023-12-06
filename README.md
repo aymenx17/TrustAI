@@ -12,9 +12,10 @@ There may have been a moment in history where we would have been surprised to kn
 ## The platform - How to Start
 
 
-The idea is a platform providing services for the metaverse. It offers authentic user identity and a comprehensive profile modeled by interacting with the AI and other entities of the metaverse. The AI is assisting the users in their own content creation, wrting business models through NFTs and bringing together individuals or groups that align well with each other's preferences and profiles. The platform uses Zero-Knowldge technology and smart contracts to secure privacy and ownership of the various entities. The platform will enable the creation of countless number of diverse applications and at some point apps are created on the fly by the AI.    
+The idea is a platform providing services for the metaverse. It offers authentic user identity and a comprehensive profile modeld by interacting with the AI and other entities of the metaverse. The AI is assisting the users in their own content creation, writing business models through NFTs and bringing together individuals or groups that align well with each other's preferences and profiles. The platform uses Zero-Knowldge technology and smart contracts to secure privacy and ownership of the various entities. The platform will enable the creation of countless number of diverse applications and at some point apps are created on the fly by the AI.    
 
-Initially the first and main application would have a chatgpt-like interface displaying past conversations either with the AI or with another user. Users would connect to the platform through web3 authentication. And every in-chat interaction at the click may be turned into an NFT product with possible royalities. The conversations are private and securely stored in the blockchain.
+Initially the first and main application would have a chatgpt-like interface displaying past conversations either with the AI or with another user. Users would connect to the platform through web3 authentication. And every in-chat interaction at the click may be turned into an NFT product with possible royalties. The conversations are private and securely stored in the blockchain.
+
 
 ### Next is tokenomics
 
